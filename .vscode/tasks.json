@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "build /Users/mathiassamek/Projects/Ubytko/Ubytko.csproj",
+			"file": "/Users/mathiassamek/Projects/Ubytko/Ubytko.csproj",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "dotnet: build /Users/mathiassamek/Projects/Ubytko/Ubytko.csproj"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+/Users/mathiassamek/Projects/Ubytko/bin/Debug/net8.0/Ubytko
+/Users/mathiassamek/Projects/Ubytko/bin/Debug/net8.0/Ubytko.deps.json
+/Users/mathiassamek/Projects/Ubytko/bin/Debug/net8.0/Ubytko.runtimeconfig.json
+/Users/mathiassamek/Projects/Ubytko/bin/Debug/net8.0/Ubytko.dll
+/Users/mathiassamek/Projects/Ubytko/bin/Debug/net8.0/Ubytko.pdb
+/Users/mathiassamek/Projects/Ubytko/obj/Debug/net8.0/Ubytko.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathiassamek/Projects/Ubytko/obj/Debug/net8.0/Ubytko.AssemblyInfoInputs.cache
+/Users/mathiassamek/Projects/Ubytko/obj/Debug/net8.0/Ubytko.AssemblyInfo.cs
+/Users/mathiassamek/Projects/Ubytko/obj/Debug/net8.0/Ubytko.csproj.CoreCompileInputs.cache
+/Users/mathiassamek/Projects/Ubytko/obj/Debug/net8.0/Ubytko.dll
+/Users/mathiassamek/Projects/Ubytko/obj/Debug/net8.0/refint/Ubytko.dll
+/Users/mathiassamek/Projects/Ubytko/obj/Debug/net8.0/Ubytko.pdb
+/Users/mathiassamek/Projects/Ubytko/obj/Debug/net8.0/Ubytko.genruntimeconfig.cache
+/Users/mathiassamek/Projects/Ubytko/obj/Debug/net8.0/ref/Ubytko.dll

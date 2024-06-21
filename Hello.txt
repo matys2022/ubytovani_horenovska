@@ -1,0 +1,4 @@
+s░Praha░24░
+Jindřich░IV.░email: jind@google.com░True░True░4░
+Jakub░Čáslavský░tel. 300░True░False░4░
+Petr░Zelný░email: petr.zelny@centrum.cz░False░False░6░
